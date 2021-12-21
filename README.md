@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/danilorsloner">
-  <img aling="center" height="180"  width="500" src="https://github-readme-stats.vercel.app/api?username=danilorsloner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img aling="center" height="180"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilorsloner&layout=compact&langs_count=7&theme=dracula"/>
+  <img aling="center" height="160"  width="420"src="https://github-readme-stats.vercel.app/api?username=danilorsloner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img aling="center" height="160"  width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilorsloner&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 ###########################################################################
 
