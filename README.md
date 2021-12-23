@@ -129,8 +129,8 @@ de 08 a 09/2005 – 40hs.</li>
 ##
 <div style="display: inline_block">
   <a href="https://github.com/danilorsloner">
-  <img aling="center" height="160"  width="420"src="https://github-readme-stats.vercel.app/api?username=danilorsloner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img aling="center" height="160"  width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilorsloner&layout=compact&langs_count=7&theme=dracula"/>
+  <img aling="center" height="160"  width="400"src="https://github-readme-stats.vercel.app/api?username=danilorsloner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img aling="center" height="160"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilorsloner&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 #########################################################################
 <div>
@@ -141,9 +141,9 @@ de 08 a 09/2005 – 40hs.</li>
 
   ![Snake animation](https://github.com/danilorsloner/danilorsloner/blob/output/github-contribution-grid-snake.svg)
 
-## Total de visitas no meu perfil :detective: <br>
+## Total de visitas no meu perfil <br>
 
- <p align="center">
+ <p align="left">
    <img alingn="center" src="https://profile-counter.glitch.me/danilorsloner/count.svg" />
  </p>
 
